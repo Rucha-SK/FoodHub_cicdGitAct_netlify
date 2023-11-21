@@ -60,7 +60,7 @@ const Restaurants = () => {
   return (
     <div>
       <div style={{ display: 'flex' }}>
-        <div style={{ flex: 1  , backgroundColor:'#F5F4F4'}}>
+        <div style={{ backgroundColor:'#F5F4F4'}}>
           <Navbar />
         </div>
         <div style={{ display: 'flex', flexDirection: 'column' }}>
