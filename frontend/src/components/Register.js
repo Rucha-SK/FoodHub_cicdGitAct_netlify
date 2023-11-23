@@ -100,7 +100,7 @@ const Register = () => {
                                         onChange={handleInputs}
                                     >
                                         <option value="">Select a role</option>
-                                        <option value="Admin">Admin</option>
+                                        
                                         <option value="Restaurant">Restaurant</option>
                                         <option value="Customer">Customer</option>
                                     </select>
