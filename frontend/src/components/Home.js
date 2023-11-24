@@ -9,7 +9,7 @@ const Home = () => {
     <div className='desktop'>
     <div className={classes.container}>
       <div className='wrapper'>
-        <h1>Welcome to FoodHub</h1>
+        <h1>Welcome</h1>
       </div>
     </div>
     </div>
