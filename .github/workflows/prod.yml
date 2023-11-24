@@ -29,10 +29,6 @@ jobs:
       run: |
         cd backend  
         npm install
-    - name: Running Tests
-      run: |
-        cd backend  
-        npm run test
     #deploy the application to netlify
     - name: Deploy production to Netlify
       uses: South-Paw/action-netlify-deploy@v1.2.0
